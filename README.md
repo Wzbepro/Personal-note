@@ -1,3 +1,3 @@
 # Personal-note
->>>For learnning program
->>>Classroom notes 
+>>>For learning programming
+and Classroom notes 
