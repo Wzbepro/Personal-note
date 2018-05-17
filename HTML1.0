@@ -1,0 +1,20 @@
+超文本标记语言 Hyper Text Markup Language
+***********************************************
+<! Doctyper html> ---------声明为HTML5文档
+<html>------------HTML页面的跟元素
+
+<head>-----------包含文档的元数据
+<meta charset="UTF-8">
+<title> HTML DEMO</title>
+</head>
+
+<body>
+    <h1> my first title</h1>
+    <p>my first paragraph</p>
+</body>
+
+</html>
+**********************************************
+HTML文档后缀名：.html|.htm
+HTML标签和HTML元素通常有同样的意思
+但严格的说HTML的元素包含了一个开始标签和一个结束标签
