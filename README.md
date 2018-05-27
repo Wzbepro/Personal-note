@@ -1,2 +1,2 @@
-# Personal-note【------------------------------Daily Note-----------------------------】
+# Personal-note【--Daily Notes--】
 >>>For learning programming and Classroom notes 
