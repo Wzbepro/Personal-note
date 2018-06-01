@@ -1,0 +1,52 @@
+（1）: 注释中的文档注释：一般是对类或者方法进行说明，被javadoc工具解析生产一个文档说明书。
+		不能被嵌套使用
+
+（2）：9:classpath环境变量(理解)
+	(1)为什么要配置classpath环境变量
+		为了让class文件可以在任意目录下运行
+	(2)如何配置
+		新建：classpath，把你想要在任意目录下运行的class文件所在目录配置过去即可。
+		注意：将来在执行的时候，有先后顺序关系
+	(3)path和classpath的区别
+		path是为了让exe文件可以在任意目录下运行
+		classpath是为了让class文件可以在任意目录下运行
+（3）：	System.out.println(5%3); //2
+		System.out.println(5%-3);//2
+		System.out.println(-5%3);//-2
+		System.out.println(-5%3);//-2
+		/****************************/
+				int a = 10;
+		int b = a++;
+		System.out.println(a);//11
+		System.out.println(b);//10
+		System.out.println("------------");
+
+		int c = 10;
+		int d = ++c;
+		System.out.println(c);//11
+		System.out.println(d);//11
+(4):
+		A:整数			占用的内存空间
+			byte		1
+			short		2
+			int		4
+			long		8
+		B:浮点数
+			float		4
+			double		8
+		C:字符
+			char		2
+		D:布尔
+			boolean		1
+(5):
+		/** & | ^ ~*/
+		System.out.println(3 & 4);//------------0
+		System.out.println(3 | 4);//-------------7
+		System.out.println(3 ^ 4);//------------7
+		System.out.println(~3);//---------------4
+
+(6): 
+		System.out.println(4 << 2); //16 = 4 * 2^2
+		System.out.println(3 << 3); //3 * 2 ^ 3
+		System.out.println(32 >> 2); //32 / 2^2
+		System.out.println(32 >>> 2);
