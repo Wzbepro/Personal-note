@@ -1,0 +1,45 @@
+Python的一些重要知识点：
+1-
+	在cmd中执行python程序： python xx.py
+2-
+	Python退出解释器： 
+		import sys
+			sys.exit()
+3-	dict
+	key ——> value     
+	value —x—> key
+	unorder
+	key的数据类型：
+		|-string
+		|-int
+		|-tuple
+	★不能为list
+	value的数据类型：
+		|-string
+		|-int
+		|-对象（几乎是都可以的）
+		|-字典
+	items ——————》 tuple(key, value)
+4- string 《-----》 list
+	string1 = "-".join(str_list)
+		ps: 把链表中的每一个元素都用“-”连接起来
+	list1 = list_str.split("-")把list_str中遇到“-”将其切开为list元素
+5- list += otherlist ||| list.extend(otherlist) 都是一样的
+6-
+	Python类：
+		|-构造函数 __init__() （---创建对象初始化---）
+		|-析构函数 __del__() （---对象销毁的时候自动调用---）
+
+7-数据类型
+	|-元组 
+	|-序列
+	|-字典 ———— 》 唯一的映射类型
+
+8-Java先编译后解释后解释执行
+	JDK）——Java Developemnt Kit
+	|-bin: javac、 java等命令
+	|-conf: 相关的配置文件
+	|-include: 各种模板
+	|-jmods: 各种模块
+	|-legal: 授权文档
+	|-lib: jar包， src.zip （source code）
