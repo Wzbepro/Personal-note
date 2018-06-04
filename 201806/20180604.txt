@@ -1,0 +1,62 @@
+1-English
+	(1）sumbolizes prosperity and wealth
+	(2)pay out for these numbers to be included in ^
+	(3)bear the same pronumciation ……and it considered to be ^
+
+2-正则表达式(Regular Expression)————>regex
+1950年 	作用：
+				搜索变化多端的文本(匹配和处理文本的字符串)
+		可以匹配任何单个的字符、字母、数字甚至是字符本身
+
+		‘.’表示匹配任何单个字符、字母、数字甚至是字符本身
+		‘\’字符转义
+		Regex ————>模式
+
+3-		《面向对象程序设计》
+				|-以解决问题域中所设计的各种对象为中心。
+				特征：
+					|-抽象：  
+						|-抽出事物的共性（similarity）
+							|-状态（attribute）
+							|-行为（behavior）
+					|-类：
+						|-是一种模板。所有对象成员的集合————属性和方法——————>创建相同属性和相同操作的对象
+
+					|-对象：
+
+						|-客观世界所存在的实体。
+							|-明确的状态和行为
+					|-封装：
+						|-将属性和操作结合在一起——称为一个封装体
+							|-第一：将其封装
+							|-第二：提供访问属性和行为的接口
+					|-继承：（Java只支持单继承）
+						|-一个类通过继承里一个类所有属性和方法（子类和父类）
+					|-多态（polymorphism）
+						|-不同类型的对象对同一消息所产生的不同行为
+4-	类于对象
+	|-在Java中理解为一种数据类型（引用类型，所有引用类型的默认值均为null reference type）
+	|-Java程序设计中的基本单位。
+	|-建立对象的模板
+	|-类创建对象的过程————>实例化（instantiation）
+
+5- 修饰符
+	public > protected > default(友好类型) > private
+
+6- static
+	类成员变量，对所有的实例一致，引用时前缀私用类名或对象成员。
+7- final
+	|-final 数值不变常量定义的同时对其进行初始化。
+
+8- byte —— 0 short —— 0 int —— 0 long —— oL float —— 0 double —— 0.0D char —— '\u0000' boolean —— Fasle
+	|-All reference type —— Null
+9- 构造方法 （对成员变量进行初始化）
+	|-无返回类型
+	|-可被重载（有参构造方法和无参构造方法）
+	|-构造方法默认修饰符《public》 不可改
+10-this 引用句柄
+	this在方法内部使这个方法所属的对象的引用变量
+11-Java中GC（Garbage Collection）垃圾回收机制 ———— 使用 public void finalize(){} | System.gc()强制回收
+
+
+
