@@ -1,0 +1,65 @@
+ 1-<style></style> ————样式表内嵌在html中。（书写CSS样式代码）
+2-<link></link> ————定义HTML文档与外部资源之间的关系——）链接外部样式表
+3-<scipit></scipit>————定义客户端脚本。eg： JavaScript
+4-网页：
+  |-结构
+  |-表现
+  |-行为
+5-列表：
+  |-有序列表（ol） order list
+  |-无序列表 (ul) unorder list
+  |-定义列表（dl）define list
+6-样式表：
+  |-将CSS样式表放置在HTML文件头部：内部样式表
+    |-内部样式表又称之为嵌入样式表，把各个元素的样式设置在<head>xx</head>中并且
+      使用<style></style>进行声明。
+        <head>
+          <style type = "text/css">
+          <!--
+          选择器{样式属性}
+          选择器{样式属性}
+          -->
+          </style>
+        </head>
+        <style>标签————内部样式表。
+        type = "text/css"属性用来声明这是一段CSS样式表代码
+        <!--xx-->标记的加入是为了防止一些不支持CSS的浏览器将<style></style>之间的代码当成普通的字符串显示在网页中。
+  |-将CSS样式表放置在HTML文件主体：行内样式表
+    |-行内样式表直接对HTML标签使用style属性，然后将CSS代码作为属性值写在其中。
+      HTML标签就是页面中HTML元素的标签eg：<body>、<p>...
+      <html>
+      <head>
+      <title>页面标题</title>
+      </head>
+      <body>
+      <p style = "color : #FF0000; font-size: 20px; text-decoration:underline;">梦幻世界</p>
+      <p style = "color : #000000; font-style: italic;">梦幻世界</p>
+      </body>
+      </html>
+      这种方法只能控制某个标签。所以适用于网页中某小段文字的显示风格。
+  |-将CSS样式表放置在HTML文件外部：链接样式表和导入样式表
+    链接样式表：
+    将独立的样式表文件引入到HTML文件中。样式表文件就是.css文件。CSS文件要和HTML文件一起发布到服务器上。
+    eg：
+     <head>
+     <link rel = "stylesheet" type = "text/css" href = "样式表文件的位置">
+     <head>
+     rel = "stylesheet" : 属性用于声明HTML文件中适用外部样式表
+     type = "text/css": 属性用来指明该文件的类型是样式表文件
+     href:属性用来指定样式表文件的路径和名称。可以为绝对路径（链接另外的网页）和相对路径（链接本地网页）
+     ————————外部样式表不含有任何HTML标签。eg：<head>\<style>,外部样式表文件的扩展名必须为：.css
+     导入样式表：
+     导入样式表和与链接样式表的功能基本相同。只是引入和运作的方式不同。
+     eg：
+     <head>
+     <style type = "text/css">
+     @import url(外部样式表文件地址)；
+     </style>
+     </head>
+     import语句后面的是不可省略的
+     外部样式表文件的文件扩展名必须为.css
+     外部样式表地址可以是绝对地址，也可以是相对地址。
+     导入样式表的最大好处就是一个HTML文件可以导入多个样式表。要导入多个样式表，只需要使用@import语句。
+     
+  
+  
