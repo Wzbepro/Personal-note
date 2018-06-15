@@ -2,13 +2,44 @@
 
 
 
+package sort.packe201806105;
+/*直接插入排序：将未排序的数据插入至已经排好的序列位置**/
 
+import java.util.Arrays;
 
-
-
-
-
-
+/*具体流程：
+ * 1首先比较数据的前两个数据，并排序；
+ * 2比较第三个元素与前两个排好序的元素进行比较，将第三个元素放在适当的位置
+ * 3比较第四个元素与前三个已经排好的元素进行比较，并将已经排好序的第四个元素放入适当的位置
+ * 4直至最后把最后一个元素放入适当的位置**/
+public class Array9{
+ public void sort(int [] arr)
+ {
+  int temp; //过渡元素
+  for(int i = 1; i < arr.length; i++)/*1号**/
+  {
+   /*待插入的元素**/
+   temp = arr[i];  //假设temp为第2个元素
+   int j ;
+   for(j = i - 1; j>=0; j--)//j为第1个元素 
+   {
+    //判断是否大于temp（待插入的元素），数组中的元素大于temp则向后移位。
+    if(arr[j] > temp)
+    {
+    
+    arr[j + 1] = arr[j]; /*这一步是关键的一步将大于temp的待插入的目标元素向后移位。**/
+    }else{
+     break;
+    } 
+   }
+   System.out.println("the j:" +j);
+   /*2号**/arr[j + 1] = temp; //arr[0] = temp 第一个元素为temp
+   /*这里的1号与二号是在同一等级下的，所以只要是第二个for循环不成立那么一个可以出现arr[j + 1] = arr 这一个程序的执行
+    * 2号程序的执行是一个必须执行的过程，最终的目的就是将temp放在指定的位置。**/
+   System.out.println(i +":" + Arrays.toString(arr));
+  }
+ }
+}
 
 
 
