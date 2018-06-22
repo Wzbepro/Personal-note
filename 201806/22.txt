@@ -1,0 +1,27 @@
+✨Java中int 和 Integer 区别------------
+
+1、Integer是int的包装类，int则是Java的一种基本数据类型
+2、Integer变量必须实例化后才能使用，而int变量不需要
+3、Integer实际是对象的引用，当new一个Integer是，实际上生成一个指针指向此对象，而int则是直接存储数据
+4、Integer的默认值是null；int的默认值为0
+
+关于Integer和int 的比较：
+	1、Integer变量实际上是一个Integer对象的引用。通过new生成Integer变量是永远🐳不相等🐳的
+	Integer i = new Integer(100);
+	Integer j = new Integer(100);
+	System.out.println(i == j) >>>false
+	2、Integer变量和int变量比较时，只要两个变量的值相等，则结果为true，因为Integer类型和int类型比较值时Integer类型会自动进行拆箱操作；
+	int i = 100；
+	Integer j = new Integer(100);
+	System.out.println(i == j) >>>true
+	3、非new生成的Integer变量和new Integer变量比较时，结果为false应为非new产生的对象是在Java的常量池中产生而new Integer()生成的变量指向堆中新建的对象，两者在内存中的地址不同。
+	Integer i = new Integer(100);
+	Integer j = 100;
+	System.out.println(i == j) >>>false
+	4-对于两个非new生成的Integer对象，进行比较时，如果两个变量的值在区间-128---127之间，则结果为true反之为false：
+	Integer i = 100;
+	Integer j = 100;
+	System.out.println(i == j); >>> true
+	原因是：
+	java对于-128---127之间的数🌲会进行缓存，Integer i = 127 下次再需要产生对象时直接对其进行取出。
+	
