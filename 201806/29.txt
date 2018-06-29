@@ -1,0 +1,55 @@
+1-
+	功能上分可分为：
+	（1）顶层容器：JFrame、JApplet、JDialog、JWindow共4个
+	（2）中间容器：JPanel、JScrollPan等
+	（3）特殊容器：JInternalFram等。
+	（4）基本控件：如JButton、 JComboBox、 JList、 JMenu、 JtextField。
+	（5）不可编辑信息的显示：JLabel、 JProgressBar、ToolTip。
+	（6）可编辑信息的显示：如JColorChooser、 JFileChooser等
+2-
+	事件处理模型：
+	整个“委托事件模型”
+		|-产生事件的对象——事件源
+		|-事件对象及监听者对象之间的关系组成
+流程：
+
+|*事件源注册：（对象名.addxxxListener(监听者对象)）
+
+	|-xxxEvent事件   |- 注册监听者
+
+
+|---- 事件监听者 实现 xxxListener接口的监听程序类
+
+3．Java中异常类的结构
+类Throwable有两个直接子类：Error和Exception，它们分别用来处理两组异常。
+Error类：被认为是不能恢复的严重错误，用来处理运行环境方面的异常。如：，虚拟机错误、装载错误、动态连接错误、系统内部错误和资源耗尽错误等。这类异常主要是和硬件有关系，而不是有程序本身抛出。通常，不应该抛出这种类型的错误，Java程序不对这类异常进行处理，而是让程序中断。
+Exception类：是Throwable的一个主要子类，定义可能遇到的轻微错误，分为派生自RuntimeException类的异常和非派生自RuntimeException类的异常。这时，可以写代码来处理异常并继续程序执行，而不是让程序中断。
+运行时异常RuntimeException
+
+4.Java异常结构：
+	|-Throwable
+		|-Error
+			|-ThreadDeath
+			|-VirtualMachineError
+		|-Exception
+			|-IOException
+			|-RuntimeException
+				|-ArithmeticException
+				|-NullPointerException
+				|-UnsuportedOperationException
+				|-IndexOutOfBoundsException
+5.
+	·this和super关键字是常用来指代父类对象与子类 对象的关键字。
+	1.this关键字
+	this表示的是当前对象本身，更准确地说，this代表了当前对象的一个引用。对象的引用可以理解为对象的另一个名字，通过引用可以顺利地访问对象，包括修改对象的属性、调用对象的方法。 
+	2.super关键字 
+	super表示的是当前对象的直接父类对象，是当前对象的直接父类对象的引用。所谓直接父类是相对于当前对象的其他“祖先”而言的
+6.
+
+	多态性（Polymorphism）是面向对象程序设计的重要特性之一，它与封装性和继承性一起构成了面向对象程序设计的三大特性。
+	多态性主要体现在：向不同的对象发送同一个消息，不同的对象在接收时会产生不同的行为(即方法)。也就是说，每个对象可以用自己的方式去响应共同的消息。
+	在Java语言中，多态性体现在两个方面：由方法重载实现的静态多态性（编译时多态）和方法重写实现的动态多态性（也称动态联编）。
+	（1）编译时多态
+	在编译阶段，具体调用哪个被重载的方法，编译器会根据参数的不同来静态确定调用相应的方法。
+	（2）动态联编
+	程序中凡是使用父类对象的地方，都可以用子类对象来代替。在程序运行期间可以通过引用子类的实例来调用子类的方法。
