@@ -1,0 +1,99 @@
+1-
+	单链表删除指定节点 ******
+
+	public T remove(int i)
+	{
+		Node front = this.head;
+		for(int j=0; j<i && front.next != null; j++)
+		{
+			front = front.next;
+		}
+		if(i >=0 && front.next != null)
+		{
+			Node old = front.next.data;
+			front.next.next = front.next;
+			return old;
+		}
+		return null;
+	}
+
+2-	
+	删除重复节点 *****
+	public static void delete(Node head)
+	{
+		while(head.next != null)
+		{
+			Node p = head;
+		
+			while(p.next != null)
+			{
+				p.next = p.next.next;
+			}
+			p = p.next;
+		}
+			head = head.next
+	}
+3-
+	获得所有二叉树的节点 *****
+	public int Count(BiTree tree)
+	{
+		if(tree == null)
+		{
+			return 0;
+		}else{
+			return leafCount(tree.lchild) + leafCount(tree.rchild) + 1
+		}
+	}
+4-
+	获得所有二叉树的子节点 *****
+	public int leafCount(BiTree tree)
+	{
+		if(tree == null)
+		{
+			return 0;
+		}else if(tree.lchild == null && tree.rchild == null){
+			return 1;
+		}else{
+			return leafCount(tree.lchild) + leafCound(tree.rchild);
+		}
+	}
+5-
+	单链表逆置 *****
+	public static Node revert(Node head)
+	{
+		if((head == null) || (head.next == null)){
+			return head;
+		} 
+		else{
+			Node revertNode = revert(head.next);
+			head.next.next = head;
+			head.next = null
+		}
+		return revertHead;
+	}
+6-
+	字符串逆置 *****
+	void change(char str[], int n)
+	{
+
+		int i;
+		char temp;
+		for(i = 0; i< (n/2); i++)
+		{
+			temp = str[i];
+			str[i] = str[n-1-i];
+		}
+	}
+7-
+	二叉树的高度 *****
+	public int height(BiTree tree)
+	{
+		if(tree == null)
+		{
+			return 0;
+		}else{
+			int leftHeight = height(tree.leftTreeHeight);
+			int rightHeight = height(tree.rightHeight);
+			return leftHeight > rightHeight ? leftHeight + 1 : rightHeight + 1
+		}
+	}
