@@ -1,14 +1,14 @@
 Comprehensive summary One
 ================
-#####答案标志词
+##### 答案标志词
 > beyound、 entitle、available、bargain、lest、except for
-#####不是答案的标志词
+##### 不是答案的标志词
 > all、only、totally、compalatly、unlimiely
 
-#####态度题中要排除的选项
+##### 态度题中要排除的选项
 > indifferent(漠不关心的)、subject（主观的）
 
-###辨析题
+### 辨析题
 
 > call off(取消、放弃)和call up（召集）<br/>
 > adapt to（适应）和 adopt（采用）<br/>
@@ -20,7 +20,7 @@ Comprehensive summary One
 > instant（及时） 和 constant （常数）<br/>
 > regulate （调节） 和 regular （常规的） <br/>
 
-###虚拟语气
+### 虚拟语气
 > 1.虚拟语气
 > > 表示建议的几个词：wish、would、rather、had rather
 > >> It is time  that  +  过去式；
@@ -34,7 +34,7 @@ Comprehensive summary One
 |2|现在分词|主动进行|
 |3|过去分词|被动完成|
 
-###“词汇”
+### “词汇”
 >永远不可能成为答案的词<br/>
 >> indifferent（莫不关心的）subject（主观的）
 
@@ -75,21 +75,42 @@ Comprehensive summary One
 ---
 **school场景**<br/>
 ```
-    freshman 大一
-    sophomore 大二
-    junior 大三
+    freshman 大一     毕业生 graduate 
+    sophomore 大二    研究生 postgraduate 
+    junior 大三       在校生undergraduate
     senior 大四
-初中 junior high school
+初中 junior high school            
 高中 senior high school
-
-毕业生 graduate 
-研究生 postgraduate 
-在校生undergraduate
 
 dean 系主任
 professor 教授
 instructor 讲师
 tutor 讲师/家教
 ```
+**hospital场景**
+```
+病症：头痛（headache）胃痛（stomach-ache）脚踝（ankle）苍白的（pale）
+预约：make appointment 治疗 treatment/cure 💊 pill 药片 tablet
+```
 
+> **hotel常见**
+```
+预定： 
+v. book = reserve  
+n. reservation = make a appontment for
+
+房型：
+sigle room、double room、standar room、suit、presidential suite、honeymoon suite
+
+入住：
+check in、check out、room serves、cash、credit card、discount
+```
+> 缩读
+* Gonna = going to
+* Gotta = get to
+* Wanna = want to
+* Kinda = kind of
+* Sorta = sort of
+
+>重要的短语集合
 
