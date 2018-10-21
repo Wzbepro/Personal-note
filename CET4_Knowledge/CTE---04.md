@@ -28,7 +28,7 @@ CET--04
 
 > 1 . **The convention of setting off fireworks on the Spring Festival is confronted with the prohibition from the government,which has aroused heated discussions.**
 
-<br/>
+
 > 2 . **The key to solving this problem is to improve the overall quality of Fireworks,which can not make sure that it is totally safe to set off fireworks but also cause the lease pollution.**
 
 > 3 . **I would like to make several suggestions concerning psychological health to you.**
@@ -40,7 +40,7 @@ CET--04
 > 5 . **Secodly, be on good terms with your roommates and communicate with your family members more.**
 
 
-> 6 . **Studies show that(研究表明) people with strong family or social connections are psychologically healthier  than those who lack a support network.**研究表明,家庭或社会关系较强的人比缺乏支持网络的人更健康。
+> 6 . **Studies show that(研究表明) people with strong family or social connections are psychologically healthier  than those who lack a support network.** 研究表明,家庭或社会关系较强的人比缺乏支持网络的人更健康。
 
 > 7 . **Taking care of yourself physically can improve your mental health. Be sure to eat nutritious meals,drink plenty of water and get enought sleep and exercies, which help decrease depression and improve moods.**
 
