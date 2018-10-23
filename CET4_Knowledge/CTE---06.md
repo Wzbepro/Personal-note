@@ -15,7 +15,9 @@ CTE---06
 
 > 一、 开头段常用提出现象举行
 >>	1. Along with the advance of the society, more and more problems are brought to our attention, one of which is that... As to whether it is a blessing or a curse,however, people take different attitudes.
+
 >><br/>	2. As society develops, people are attaching much importance to (doing/n)...
+
 >><br/>	3. People are attaching more and more importance to the ( a kind of phenomenon)....../Recently,(the problem/phenomenon) ...... has been brought into public focus.
 
 >><br/>	4. As to whether it is worthwhile(to do)......,there is a long-runing controversial debate.It is quite natural that people from different backgrounds may have divergent attitudes toward it.
