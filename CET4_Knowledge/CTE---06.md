@@ -8,19 +8,20 @@ CTE---06
 * 6 .**upgrading of an industrial structure**产业结构升级&nbsp;&nbsp;**start from scratch**白手起家
 * 7 . **artificial intelligence** 人工智能&nbsp;&nbsp;**migrant workers**外出打工人员
 * 8 .**material and spiritual civilization**物质文明和精神文明&nbsp;&nbsp;**exam-oriented education**&nbsp;&nbsp;
-* 9 .**intelligence quotient(IQ)**智商&nbsp;&nbsp; **public welfare avtivities**社会公益活动
+* 9 .**intelligence quotient(IQ)** 智商&nbsp;&nbsp; **public welfare avtivities**社会公益活动
 * 10 . **the drift of opinion**舆论导向&nbsp;&nbsp;**catch the drift of an argument**追逐争论的要点
 
 <hr>
 
 > 一、 开头段常用提出现象举行
-```
-	1. Along with the advance of the society, more and more problems are brought to our attention, one of which is that... As to whether it is a blessing or a curse,however, people take different attitudes.
-	2. As society develops, people are attaching much importance to (doing/n)...
-	3. People are attaching more and more importance to the ( a kind of phenomenon)....../Recently,(the problem/phenomenon) ...... has been brought into public focus.
-	4. As to whether it is worthwhile(to do)......,there is a long-runing controversial debate.It is quite natural that people from different backgrounds may have divergent attitudes toward it.
-	5. In the process of ... development, we often find ourselves in a dilemma.
-```
+>>	1. Along with the advance of the society, more and more problems are brought to our attention, one of which is that... As to whether it is a blessing or a curse,however, people take different attitudes.
+>><br/>	2. As society develops, people are attaching much importance to (doing/n)...
+>><br/>	3. People are attaching more and more importance to the ( a kind of phenomenon)....../Recently,(the problem/phenomenon) ...... has been brought into public focus.
+
+>><br/>	4. As to whether it is worthwhile(to do)......,there is a long-runing controversial debate.It is quite natural that people from different backgrounds may have divergent attitudes toward it.
+
+>><br/>	5. In the process of ... development, we often find ourselves in a dilemma.
+
 
 ### Translation
 
