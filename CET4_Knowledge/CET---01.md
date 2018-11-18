@@ -3,7 +3,7 @@ Comprehensive summary One
 ##### 答案标志词
 > beyound、 entitle、available、bargain、lest、except for
 ##### 不是答案的标志词
-> all、only、totally、compalatly、unlimiely
+> all、only、totally、compalatly、unlimiely  
 
 ##### 态度题中要排除的选项
 > indifferent(漠不关心的)、subject（主观的）
