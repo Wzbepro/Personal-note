@@ -1,8 +1,13 @@
 # Personal-note【--Daily Notes--】
+<img src="https://s2.ax1x.com/2019/04/30/E3x3Kx.png" alt="E3x3Kx.png" border="0" /> **FrequentlyUsedNote**
+<hr/>
 
 School_Web: http://10.255.200.11/portal_io/login?username=1704993224&password=18499X&domain=cmcc
 
+<hr/>
 
+
+<img src="https://s2.ax1x.com/2019/04/30/E3xrsP.png" alt="E3xrsP.png" border="0" /> **MyNote**
 <hr/>
 
 
@@ -14,5 +19,12 @@ School_Web: http://10.255.200.11/portal_io/login?username=1704993224&password=18
 
 
 <hr/>
-For learning programming and Classroom notes 
+
+
+<img src="https://s2.ax1x.com/2019/04/30/E3x0xI.png" alt="E3x0xI.png" border="0" /> **PersistenceNote**
+
+
+<img src="https://s2.ax1x.com/2019/04/30/E3xDMt.png" alt="E3xDMt.png" border="0" />
+<img src="https://s2.ax1x.com/2019/04/30/E3x6Z8.png" alt="E3x6Z8.png" border="0" />
+<img src="https://s2.ax1x.com/2019/04/30/E3xsqf.png" alt="E3xsqf.png" border="0" />
 ![](https://github.com/HIROWANG/Personal-note/blob/master/lovely_.jpg)
