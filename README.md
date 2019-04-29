@@ -22,9 +22,16 @@ School_Web: http://10.255.200.11/portal_io/login?username=1704993224&password=18
 
 
 <img src="https://s2.ax1x.com/2019/04/30/E3x0xI.png" alt="E3x0xI.png" border="0" /> **PersistenceNote**
+<hr/>
 
 
 <img src="https://s2.ax1x.com/2019/04/30/E3xDMt.png" alt="E3xDMt.png" border="0" />
+<hr/>
+
 <img src="https://s2.ax1x.com/2019/04/30/E3x6Z8.png" alt="E3x6Z8.png" border="0" />
+<hr/>
+
 <img src="https://s2.ax1x.com/2019/04/30/E3xsqf.png" alt="E3xsqf.png" border="0" />
+<hr/>
+
 ![](https://github.com/HIROWANG/Personal-note/blob/master/lovely_.jpg)
