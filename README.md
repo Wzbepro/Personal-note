@@ -2,8 +2,9 @@
 <img src="https://s2.ax1x.com/2019/04/30/E3x3Kx.png" alt="E3x3Kx.png" border="0" /> **FrequentlyUsedNote**
 <hr/>
 
-* School_Web: http://10.255.200.11/portal_io/login?username=1704993224&password=18499X&domain=cmcc
-* 什么是学习：http://open.163.com/movie/2011/10/O/8/M7GH051TD_M7GHG4NO8.html
+* 🕸School_Web: http://10.255.200.11/portal_io/login?username=1704993224&password=18499X&domain=cmcc
+* 🕸什么是学习：http://open.163.com/movie/2011/10/O/8/M7GH051TD_M7GHG4NO8.html
+* 🕸253云通讯（短信验证）:https://zz.253.com/v5.html#/api_word
 <hr/>
 
 
