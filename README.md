@@ -1,16 +1,8 @@
 
-<table>
-<tr>
-  <td>
+<p align="center">
     <img src="https://img.shields.io/badge/username-wangzhuang2-brightgreen.svg?style=popout-square&logo=appveyor"/>
-  </td>
-  <td>
-      <img src="https://img.shields.io/badge/Developer-Java-red.svg?style=popout-square&logo=Java"/>
-  </td>
- 
-</tr>
-
-</table>
+    <img src="https://img.shields.io/badge/Developer-Java-red.svg?style=popout-square&logo=Java"/>
+</p>
 
 # Personal-note【--Daily Notes--】
 
