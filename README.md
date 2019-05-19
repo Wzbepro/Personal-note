@@ -2,9 +2,10 @@
 <tr>
   <td>
     <img src="https://img.shields.io/badge/username-wangzhuang2-brightgreen.svg?style=popout-square&logo=appveyor"/>
-  <img src="https://img.shields.io/badge/Developer-Java-red.svg?style=popout-square&logo=Java"/>
   </td>
-  
+  <td>
+      <img src="https://img.shields.io/badge/Developer-Java-red.svg?style=popout-square&logo=Java"/>
+  </td>
  
 </tr>
 
