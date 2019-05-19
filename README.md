@@ -1,7 +1,8 @@
 
 <p align="center">
-    <img src="https://img.shields.io/badge/username-wangzhuang2-brightgreen.svg?style=popout-square&logo=appveyor"/>
+    <img src="https://img.shields.io/badge/username-wangzhuang2-brightgreen.svg?style=popout-square&logo=Deno"/>
     <img src="https://img.shields.io/badge/Developer-Java-red.svg?style=popout-square&logo=Java"/>
+    <img src="https://img.shields.io/badge/func-life__note-orange.svg?style=popout-square&logo=Hackaday"/>
 </p>
 
 # Personal-note【--Daily Notes--】
