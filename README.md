@@ -1,12 +1,12 @@
 
 <table>
 <tr>
-  <th>
+  <td>
     <img src="https://img.shields.io/badge/username-wangzhuang2-brightgreen.svg?style=popout-square&logo=appveyor"/>
-  </th>
-  <th>
+  </td>
+  <td>
       <img src="https://img.shields.io/badge/Developer-Java-red.svg?style=popout-square&logo=Java"/>
-  </th>
+  </td>
  
 </tr>
 
