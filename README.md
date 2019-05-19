@@ -1,6 +1,6 @@
 
 <tr>
-  <td><img src="https://img.shields.io/badge/username-wangzhuang2-brightgreen.svg"/></td>
+  <td><img src="https://img.shields.io/badge/username-wangzhuang2-brightgreen.svg?style=popout&logo=appveyor"/></td>
 </tr>
 # Personal-note【--Daily Notes--】
 
