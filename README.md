@@ -60,6 +60,7 @@
 <img src="https://s2.ax1x.com/2019/04/30/E3xsqf.png" alt="E3xsqf.png" border="0" />
 <hr/>
 
+** Learn 微信小程序开发 --- **
 ![](https://github.com/HIROWANG/Personal-note/blob/master/lovely_.jpg)
 
 # 转本 ： 南京信息工程大学 ！
