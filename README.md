@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/func-life__note-orange.svg?style=flat&logo=Hackaday"/>
 </p>
 
-<img src="https://s2.ax1x.com/2019/05/20/EvTutK.png" alt="EvTutK.png" width='2px'  border="0" />
+<img src="https://s2.ax1x.com/2019/05/20/EvTutK.png" alt="EvTutK.png"  border="0" />
 
 # Personal-note【--Daily Notes--】
 
