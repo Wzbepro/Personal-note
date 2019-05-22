@@ -26,7 +26,7 @@ CTE --- 08
 
 > an increasing number of ----------- more and more
 
-> in contemporary society ------------- nowdays
+> in contemporary society ------------- nowadays
 
 > a good illustration of this ------------- for example
 
@@ -66,7 +66,7 @@ CTE --- 08
 >总而言之，我们离不开___但是同时我们必须尽力找出解决可能出现问题的新方法
 >> All in all, we cannot live without __. But at the same time we must try to find out new ways to cope with the problems that would arise.
 
->总而言之，整个社会应该密切关注_问题。只有这样，我i们才能_
+>总而言之，整个社会应该密切关注_问题。只有这样，我们才能_
 >> In a word, the whole society should pay close attention to the problem of __. Only in this way can _ in future.
 
 
