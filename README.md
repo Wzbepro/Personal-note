@@ -5,8 +5,12 @@
     <img src="https://img.shields.io/badge/func-life__note-orange.svg?style=flat&logo=Hackaday"/>
 </p>
 
-|--：|--：|
-|🍳互联网招聘网站||
+🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈
+<table>
+	<tr>
+			<td>🍳<a href="https://github.com/Sunshineisbright/Personal-note/blob/master/%E2%AD%90%EF%B8%8FMyFile/%E6%B1%82%E8%81%8C.md">求职</a></td>	
+  </tr>
+</table>
 
 # Personal-note【--Daily Notes--】
 
