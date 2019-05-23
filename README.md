@@ -29,11 +29,10 @@
 <img src="https://s2.ax1x.com/2019/04/30/E3x3Kx.png" alt="E3x3Kx.png" border="0" /> **FrequentlyUsedNote**
 <hr/>
 
-* 🕸School_Web: http://10.255.200.11/portal_io/login?username=1704993224&password=18499X&domain=cmcc
-* 🕸什么是学习：http://open.163.com/movie/2011/10/O/8/M7GH051TD_M7GHG4NO8.html
-* 🕸253云通讯（短信验证）:https://zz.253.com/v5.html#/api_word
-* ⛳北京理工大学金旭亮老师的《面向对象软件开发实践系列课程》: https://study.163.com/instructor/2658707.htm
-* ⛳Scott H Young Blog:https://www.scotthyoung.com/blog/browse/?_sft_category=nc-learning&_sf_s=%E8%B4%B9%E6%9B%BC
+* 🕸 <a href="http://10.255.200.11/portal_io/login?username=1704993224&password=18499X&domain=cmcc">School_Web</a>
+* 🕸 <a href="http://open.163.com/movie/2011/10/O/8/M7GH051TD_M7GHG4NO8.html">什么是学习</a>
+* ⛳ <a href="https://study.163.com/instructor/2658707.htm">北京理工大学金旭亮老师的《面向对象软件开发实践系列课程》</a>
+* ⛳ <a href="https://www.scotthyoung.com/blog/browse/?_sft_category=nc-learning&_sf_s=%E8%B4%B9%E6%9B%BC">Scott H Young Blog</a>
 <hr/>
 
 
