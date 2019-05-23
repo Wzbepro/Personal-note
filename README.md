@@ -9,7 +9,7 @@
 <table>
 	<tr>
 			<td>🍳<a href="https://github.com/Sunshineisbright/Personal-note/blob/master/%E2%AD%90%EF%B8%8FMyFile/%E6%B1%82%E8%81%8C.md">求职</a></td>
-		<td>🍎C语言基础学习</td>
+		<td>🍎<a href="https://github.com/Sunshineisbright/Personal-note/tree/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/%E5%8D%95%E6%8E%92C%E8%AF%AD%E8%A8%80">单排C语言</a></td>
   </tr>
 </table>
 
