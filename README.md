@@ -7,4 +7,33 @@
 
 🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈
 
+### 🔴工具网站
+
+### 🌈趣Interesting-Web
+
+### 🌏技术官方网站
+
+### 📚文档
+
+* <a href="https://download.huihoo.com/">huihoo开源文档</a>
+
+
+### 🍎互联网招聘网站
+
+* <a href="https://www.lagou.com/">拉勾网</a>
+* <a href="https://www.lagou.com/">BOSS直聘</a>
+
+
+
+### 🍧简历制作
+
+* <a href="https://www.500d.me">五百丁简历</a>
+* <a href="https://www.canva.cn/">Canva</a>
+* <a href="https://www.zhaopin.com/">智联招聘</a>
+
+
+
+
+
+
 
